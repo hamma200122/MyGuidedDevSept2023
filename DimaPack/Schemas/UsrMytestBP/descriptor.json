@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "c7a90d86-ea87-4410-986c-ba4dbec80a13",
     "Name": "UsrMytestBP",
-    "ModifiedOnUtc": "\/Date(1695140222000)\/",
+    "ModifiedOnUtc": "\/Date(1695214982000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Test BP",
     "DependsOn": []
