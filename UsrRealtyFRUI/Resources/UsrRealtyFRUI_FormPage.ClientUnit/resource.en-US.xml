@@ -3,6 +3,17 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty FRUI form page" />
+			<Item Name="LocalizableStrings.addRecord_5hslqps_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_b3kp62c_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_v55rs4v_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_9g18asd_caption.Value" Value="Push me !" />
+			<Item Name="LocalizableStrings.ExpansionPanel_7bpnm97_title.Value" Value="Realty Visit (Freedom UI)" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_3j5g3f9_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_mh75ty4_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_fc2xs6i_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_u9psee0_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_leag0kn_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_83azfs5_caption.Value" Value="Actions" />
 		</Items>
 	</Group>
 </Resources>

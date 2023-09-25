@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "607bb506-23a4-471e-a98d-0b6db0df2c2f",
+    "Name": "UsrPage_ag56m9c",
+    "ModifiedOnUtc": "\/Date(1695637091000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Visit (Freedom UI) modal page"
+  }
+}
